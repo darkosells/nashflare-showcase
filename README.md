@@ -70,16 +70,16 @@ This project demonstrates my ability to design, develop, and deploy a production
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](homepage.png)
 
 ### Product Page
-![Product Page](screenshots/product-page.png)
+![Product Page](product-page.png)
 
 ### Vendor Dashboard
-![Vendor Dashboard](screenshots/vendor-dashboard.png)
+![Vendor Dashboard](vendor-dashboard.png)
 
 ### Checkout
-![Checkout](screenshots/checkout.png)
+![Checkout](checkout.png)
 
 
 ---
